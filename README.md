@@ -57,7 +57,7 @@ Regional sales performance was analyzed using map visualization.
 - Dynamic pivot charts
 - KPI indicators
 - Category comparison
-- Trend analysis
+- Trend analysis 
 
 ## Conclusion
 This project demonstrates how Excel can be used to create interactive dashboards and perform business data analysis.
