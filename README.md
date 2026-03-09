@@ -57,7 +57,19 @@ Regional sales performance was analyzed using map visualization.
 - Dynamic pivot charts
 - KPI indicators
 - Category comparison
-- Trend analysis 
+- Trend analysis
+
+  ## Key Insights
+
+• Sales increased steadily from 2011 to 2014 showing strong business growth.
+
+• Technology category generated the highest profit compared to Furniture and Office Supplies.
+
+• Office Supplies had high sales but lower profit margins.
+
+• The top 5 products contribute a significant portion of total revenue.
+
+• North America region recorded the highest sales compared to other regions.
 
 ## Conclusion
 This project demonstrates how Excel can be used to create interactive dashboards and perform business data analysis.
